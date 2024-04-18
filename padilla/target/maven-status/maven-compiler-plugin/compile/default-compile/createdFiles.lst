@@ -1,0 +1,5 @@
+Servlets\SvAgregar.class
+com\mycompany\padilla\JakartaRestConfiguration.class
+Servlets\SvMostrar.class
+com\mycompany\padilla\Conexion.class
+com\mycompany\padilla\resources\JakartaEE8Resource.class
